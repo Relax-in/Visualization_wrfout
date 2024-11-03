@@ -3,7 +3,8 @@
 ## 此代码是对WRF软件的结果进行可视化处理
 
 Weather Research & Forecasting Model (WRF) 即天气研究与预报模式程序
-通过对数据进行处理，输出paraview可读取的格式
+通过对数据进行处理，输出paraview可读取的格式。
+
 ![alt text](./picture/image.png)
 
 ## 基于库和使用方法
