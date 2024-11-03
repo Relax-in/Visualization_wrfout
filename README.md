@@ -21,4 +21,5 @@ vtk
 ![alt text](./picture/Figure_1-1.png)
 ![alt text](./picture/Figure_1-2.png)
 ![alt text](./picture/Figure_1-3.png)
+![alt text](./picture/Figure_1-3.png)
 ![alt text](./picture/Figure_1-4.png)
