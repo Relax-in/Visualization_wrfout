@@ -8,6 +8,7 @@ from PyQt5.QtWidgets import QFileDialog
 
 
 
+
 # 主线程
 class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
     def __init__(self):
